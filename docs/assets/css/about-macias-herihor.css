@@ -1,4 +1,4 @@
-/* file: docs/assets/css/about-apellidos-nombre.css */
+/* file: docs/assets/css/about-macias-herihor.css */
 /* -----------------------------------------------------------------------
    Hoja de estilos del PERFIL del estudiante
    Cómo personalizar SIN romper el diseño:
@@ -12,8 +12,8 @@
    Todo el sitio lee de estas variables (no busques colores sueltos). */
 :root {
   /* Fondos (tintos muy claros) */
-  --bg-50: #f8fbff;
-  --bg-100: #eff6ff;
+  --bg-50: #eff1fa;
+  --bg-100: #7eaff0;
   --bg-aqua-100: #e0f2fe;   /* azul claro */
   --bg-indigo-100: #e0e7ff; /* índigo claro */
 
@@ -23,9 +23,9 @@
   --brand-700: #3a6e99;
 
   /* Tipografía y superficies */
-  --ink-900: #2c3e50;  /* texto principal */
+  --ink-900: #273c51;  /* texto principal */
   --ink-700: #546a7d;  /* texto secundario */
-  --card:    #ffffff;  /* superficie (tarjetas / contenedores) */
+  --card:    #fffefe;  /* superficie (tarjetas / contenedores) */
 
   /* Accesorios derivados */
   --border-soft: rgba(58, 141, 154, 0.18); /* borde sutil ligado a brand */
